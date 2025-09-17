@@ -1,0 +1,1 @@
+Developed a real-time communication system using socket programming, enabling multiple clients to connect and exchange messages seamlessly. The project demonstrates concepts of network programming, concurrency, and real-time data transfer.
